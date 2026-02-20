@@ -14,8 +14,8 @@ It is intentionally concise: each entry links to the source repository where arc
 | **Codexible** | Active | LLM API platform and integration layer | https://github.com/zhugez/Codexible |
 | **VerTel Bot** | Active | C++ Telegram framework (library-first) | https://github.com/zhugez/vertelt-bot |
 | **Abyss** | Done | AppSec platform | https://github.com/zhugez/Abyss |
-| **ArcStrike** | Doing | Security platform | https://github.com/zhugez/ArcStrike |
-| **ShadeHunter** | Doing | Security / reconnaissance tooling | https://github.com/zhugez/ShadeHunter |
+| **ArcStrike** | Building | Security platform | https://github.com/zhugez/ArcStrike |
+| **ShadeHunter** | Building | Security / reconnaissance tooling | https://github.com/zhugez/ShadeHunter |
 | **Ryuu** | Active | Bot and infrastructure tooling | https://github.com/zhugez/ryuu |
 | **ExoMind** | Active | Knowledge runtime systems | https://github.com/zhugez/ExoMind |
 | **Mycelium** | Active | WordPress plugin acquisition pipeline for Patchstack bug bounty workflow | https://github.com/zhugez/Mycelium |
@@ -23,11 +23,11 @@ It is intentionally concise: each entry links to the source repository where arc
 
 ---
 
-## Conventions
+## Lifecycle Conventions
 
-- **Done**: feature-complete or maintenance-only lifecycle.
-- **Doing**: in active implementation phase.
-- **Active**: ongoing development and iteration.
+- **Done**: feature-complete; maintenance only.
+- **Building**: currently in implementation phase (major features in progress).
+- **Active**: live/usable project with ongoing iteration and improvements.
 
 ---
 
