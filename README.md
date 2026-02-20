@@ -11,11 +11,31 @@ A central index of active projects, experiments, and production systems.
 
 ---
 
+## 🧭 Start Here
+
+If this is your first time here:
+
+1. **Aletheia** → RAG platform architecture, ingestion, retrieval, grounded answers
+2. **Codexible** → live product/deployment workflows
+3. **VerTel** → C++ Telegram framework/library-first engineering
+
+---
+
 ## 🔥 What I'm Building Now
 
 - Scaling **Aletheia** into a production-grade RAG platform (hybrid retrieval + grounded answers + ingestion worker queue)
 - Improving deployment ergonomics (Dokploy + one-command compose startup)
 - Building library-first architecture for **VerTel** (C++ Telegram framework)
+
+---
+
+## 📊 Project Status Board
+
+| Project | Type | Status | Live | Last Focus |
+|---|---|---|---|---|
+| [Aletheia](https://github.com/zhugez/Aletheia) | RAG Platform | 🟢 Active | (self-host / Dokploy) | Monolith + cache + worker queue |
+| [Codexible](https://github.com/zhugez/Codexible) | Product Platform | 🟢 Active | https://codexible.vercel.app | Deploy + product iteration |
+| [VerTel Bot](https://github.com/zhugez/vertelt-bot) | C++ Framework | 🟢 Active | N/A | Telegram-core library architecture |
 
 ---
 
@@ -28,16 +48,12 @@ Research-grade RAG platform for large-scale book knowledge bases.
 - **Focus:** ingestion pipeline, hybrid retrieval (BM25 + vector), grounded answers with citations
 - **Status:** active development
 
----
-
 ### 2) Codexible
 Product/dev platform and deployment workflows.
 
 - **Repo:** https://github.com/zhugez/Codexible
 - **Live:** https://codexible.vercel.app
 - **Status:** production updates ongoing
-
----
 
 ### 3) VerTel Bot
 C++ Telegram framework (library-first direction).
@@ -66,15 +82,7 @@ Use this section for short-lived experiments and proof-of-concepts.
 - [ ] Add architecture diagrams per project
 - [ ] Add public changelog digest
 - [ ] Add GitHub Actions badges per repo (build/security/deploy)
-
----
-
-## 📌 How to Use This Repo
-
-If you're visiting this profile for the first time:
-1. Start from **Featured Projects** above
-2. Open each repo’s README for setup and architecture
-3. Check releases/commits for latest progress
+- [ ] Add pinned “best first issue” cards for contributors
 
 ---
 
