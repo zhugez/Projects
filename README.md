@@ -15,7 +15,7 @@ Each project has its own dedicated repository, roadmap, and release history.
 ## ⚡ Quick Start
 
 - **Aletheia (RAG Platform):** https://github.com/zhugez/Aletheia
-- **Codexible (Product Platform):** https://github.com/zhugez/Codexible
+- **Codexible (LLM API Platform):** https://github.com/zhugez/Codexible
 - **Codexible Live:** https://codexible.vercel.app
 - **VerTel (C++ Telegram Framework):** https://github.com/zhugez/vertelt-bot
 
@@ -26,7 +26,7 @@ Each project has its own dedicated repository, roadmap, and release history.
 | Project | Category | Status | Link |
 |---|---|---|---|
 | Aletheia | AI / RAG | 🟢 Active | https://github.com/zhugez/Aletheia |
-| Codexible | Product / Web | 🟢 Active | https://github.com/zhugez/Codexible |
+| Codexible | LLM API Platform | 🟢 Active | https://github.com/zhugez/Codexible |
 | VerTel Bot | C++ Framework | 🟢 Active | https://github.com/zhugez/vertelt-bot |
 
 ---
@@ -34,6 +34,7 @@ Each project has its own dedicated repository, roadmap, and release history.
 ## 🔥 Now Building
 
 - **Aletheia**: modular monolith, hybrid retrieval, background worker, grounded citations
+- **Codexible**: LLM API delivery and integration quality
 - **Deploy flow**: one-command compose + Dokploy consistency
 - **VerTel**: library-first Telegram core in C++
 
@@ -47,10 +48,10 @@ Each project has its own dedicated repository, roadmap, and release history.
 - **Deployment:** Docker Compose + Dokploy
 - **Current focus:** quality + performance + ingestion orchestration
 
-### 2) Codexible — Product Platform
+### 2) Codexible — LLM API Platform
 - **Repo:** https://github.com/zhugez/Codexible
 - **Live:** https://codexible.vercel.app
-- **Current focus:** delivery speed, UX iteration, release cadence
+- **Current focus:** API reliability, model routing, and developer integrations
 
 ### 3) VerTel Bot — C++ Telegram Framework
 - **Repo:** https://github.com/zhugez/vertelt-bot
@@ -65,7 +66,7 @@ Each project has its own dedicated repository, roadmap, and release history.
 ### Aletheia
 [![Aletheia Preview](https://opengraph.githubassets.com/1/zhugez/Aletheia)](https://github.com/zhugez/Aletheia)
 
-### Codexible
+### Codexible (LLM API Platform)
 [![Codexible Preview](https://opengraph.githubassets.com/1/zhugez/Codexible)](https://github.com/zhugez/Codexible)
 
 ### VerTel Bot
