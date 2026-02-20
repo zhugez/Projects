@@ -11,6 +11,15 @@ A central index of active projects, experiments, and production systems.
 
 ---
 
+## ⚡ Quick Links
+
+- **Aletheia Repo:** https://github.com/zhugez/Aletheia
+- **Codexible Repo:** https://github.com/zhugez/Codexible
+- **Codexible Live:** https://codexible.vercel.app
+- **VerTel Repo:** https://github.com/zhugez/vertelt-bot
+
+---
+
 ## 🧭 Start Here
 
 If this is your first time here:
@@ -76,13 +85,12 @@ Use this section for short-lived experiments and proof-of-concepts.
 
 ---
 
-## 🗺️ Roadmap (High-Level)
+## ✅ Next Polish Steps
 
-- [ ] Add demo screenshots/GIFs per featured project
-- [ ] Add architecture diagrams per project
-- [ ] Add public changelog digest
-- [ ] Add GitHub Actions badges per repo (build/security/deploy)
-- [ ] Add pinned “best first issue” cards for contributors
+- [ ] Add screenshot cards (hero image per project)
+- [ ] Add architecture diagram links for each project
+- [ ] Add CI/security/deploy badges per repository
+- [ ] Add “Recent Wins” section (weekly highlights)
 
 ---
 
