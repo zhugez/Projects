@@ -1,129 +1,109 @@
 # Projects — Zhugez Portfolio Hub
 
-> Central home for all active builds, production systems, and experiments by **zhugez**.
+> Central home for active builds, production systems, and security/AI engineering projects by **zhugez**.
 
 [![Portfolio Hub](https://img.shields.io/badge/Projects-Hub-111827?style=for-the-badge)](https://github.com/zhugez/Projects)
-[![Aletheia](https://img.shields.io/badge/Aletheia-Active-16a34a?style=for-the-badge)](https://github.com/zhugez/Aletheia)
-[![Codexible](https://img.shields.io/badge/Codexible-Live-2563eb?style=for-the-badge)](https://codexible.vercel.app)
-[![VerTel](https://img.shields.io/badge/VerTel-C%2B%2B_Framework-7c3aed?style=for-the-badge)](https://github.com/zhugez/vertelt-bot)
-
-This repository is a **navigation hub** (not a monorepo).  
-Each project has its own repository, roadmap, and release history.
 
 ---
 
-## ⚡ Quick Start
+## ⚡ Quick Links
 
-- **Aletheia (RAG Platform):** https://github.com/zhugez/Aletheia
-- **Codexible (LLM API Platform):** https://github.com/zhugez/Codexible
-- **Codexible Live:** https://codexible.vercel.app
-- **VerTel (C++ Telegram Framework):** https://github.com/zhugez/vertelt-bot
-- **Abyss (AppSec Platform):** https://github.com/zhugez/Abyss
-- **ArcStrike (Security Platform):** https://github.com/zhugez/ArcStrike
-- **ShadeHunter (Security/Recon):** https://github.com/zhugez/ShadeHunter
-- **Ryuu (Discord Bot Framework):** https://github.com/zhugez/ryuu
-- **ExoMind (Knowledge Runtime):** https://github.com/zhugez/ExoMind
-- **Mycelium (Knowledge Network):** https://github.com/zhugez/Mycelium
-
----
-
-## 🧭 Project Directory
-
-| Project | Category | Status | Description | Link |
-|---|---|---|---|---|
-| Aletheia | AI / RAG | 🟢 Active | Ingestion + hybrid retrieval + grounded citations | https://github.com/zhugez/Aletheia |
-| Codexible | LLM API Platform | 🟢 Active | Model/API routing and integration layer | https://github.com/zhugez/Codexible |
-| VerTel Bot | C++ Framework | 🟢 Active | Library-first Telegram framework | https://github.com/zhugez/vertelt-bot |
-| Abyss | AppSec Platform | ✅ Done | Local-first AI AppSec analysis workflows | https://github.com/zhugez/Abyss |
-| ArcStrike | Security Platform | 🚧 Doing | Active build phase | https://github.com/zhugez/ArcStrike |
-| ShadeHunter | Security / Recon | 🚧 Doing | Active build phase | https://github.com/zhugez/ShadeHunter |
-| Ryuu | Bot / Infra | 🟢 Active | Modular C++ Discord bot | https://github.com/zhugez/ryuu |
-| ExoMind | AI System | 🟢 Active | Portable knowledge runtime | https://github.com/zhugez/ExoMind |
-| Mycelium | Knowledge / Network | 🟢 Active | Knowledge network experiments | https://github.com/zhugez/Mycelium |
+- Aletheia: https://github.com/zhugez/Aletheia
+- Codexible: https://github.com/zhugez/Codexible
+- Codexible Live: https://codexible.vercel.app
+- VerTel Bot: https://github.com/zhugez/vertelt-bot
+- Abyss: https://github.com/zhugez/Abyss
+- ArcStrike: https://github.com/zhugez/ArcStrike
+- ShadeHunter: https://github.com/zhugez/ShadeHunter
+- Ryuu: https://github.com/zhugez/ryuu
+- ExoMind: https://github.com/zhugez/ExoMind
+- Mycelium: https://github.com/zhugez/Mycelium
 
 ---
 
-## 🔥 Now Building
+## 📊 Project Status Board
 
-- **Aletheia**: modular monolith, worker queue, retrieval quality tuning
-- **Codexible**: API reliability and developer integrations
-- **VerTel**: reusable C++ core modules
-- **ArcStrike** + **ShadeHunter**: active security platform builds
-
----
-
-## 🚀 Featured Projects
-
-### Aletheia — Research-grade RAG
-- **Repo:** https://github.com/zhugez/Aletheia
-- **Highlights:** ingest pipeline, OpenSearch+Qdrant retrieval, grounded `/ask`
-- **Deployment:** Docker Compose + Dokploy
-
-### Codexible — LLM API Platform
-- **Repo:** https://github.com/zhugez/Codexible
-- **Live:** https://codexible.vercel.app
-- **Focus:** API reliability, model routing, developer integrations
-
-### VerTel Bot — C++ Telegram Framework
-- **Repo:** https://github.com/zhugez/vertelt-bot
-- **Focus:** framework/library-first architecture
-
-### Abyss — Completed AppSec Platform
-- **Repo:** https://github.com/zhugez/Abyss
-- **Status:** done
-
-### ArcStrike / ShadeHunter / Ryuu / ExoMind / Mycelium
-- Active and evolving projects listed in the directory above.
+| Project | Category | Status | Link |
+|---|---|---|---|
+| Aletheia | AI / RAG Platform | 🟢 Active | https://github.com/zhugez/Aletheia |
+| Codexible | LLM API Platform | 🟢 Active | https://github.com/zhugez/Codexible |
+| VerTel Bot | C++ Framework | 🟢 Active | https://github.com/zhugez/vertelt-bot |
+| Abyss | AppSec Platform | ✅ Done | https://github.com/zhugez/Abyss |
+| ArcStrike | Security Platform | 🚧 Doing | https://github.com/zhugez/ArcStrike |
+| ShadeHunter | Security / Recon | 🚧 Doing | https://github.com/zhugez/ShadeHunter |
+| Ryuu | Bot / Infra | 🟢 Active | https://github.com/zhugez/ryuu |
+| ExoMind | Knowledge Runtime | 🟢 Active | https://github.com/zhugez/ExoMind |
+| Mycelium | WordPress Plugin Intelligence | 🟢 Active | https://github.com/zhugez/Mycelium |
 
 ---
 
-## 🖼️ Project Preview Cards
+## 🧾 HR-Oriented Project Summaries (Objective Format)
 
-### Aletheia
-[![Aletheia Preview](https://opengraph.githubassets.com/1/zhugez/Aletheia)](https://github.com/zhugez/Aletheia)
+### 1) Aletheia (AI / RAG Platform)
+- **Bối cảnh/Mục tiêu:** Xây nền tảng hỏi đáp tài liệu có citation cho kho tài liệu lớn.
+- **Vai trò:** Kiến trúc + backend + triển khai.
+- **Việc đã làm:** Thiết kế modular monolith (API + worker + queue), xây ingest pipeline (chunking + OpenSearch/Qdrant), triển khai hybrid retrieval (BM25 + vector), tối ưu Docker Compose/Dokploy + healthcheck + migration.
+- **Kết quả:** Hệ thống chạy end-to-end, có benchmark retrieval, hỗ trợ background jobs và caching.
 
-### Codexible
-[![Codexible Preview](https://opengraph.githubassets.com/1/zhugez/Codexible)](https://github.com/zhugez/Codexible)
+### 2) Codexible (LLM API Platform)
+- **Bối cảnh/Mục tiêu:** Cung cấp lớp API cho tích hợp mô hình LLM/agent.
+- **Vai trò:** Product engineering + release/deploy.
+- **Việc đã làm:** Duy trì production deployment, chuẩn hóa release/rollback, tăng độ ổn định API và khả năng tích hợp.
+- **Kết quả:** Nền tảng hoạt động liên tục với chu trình phát hành rõ ràng.
 
-### VerTel Bot
-[![VerTel Preview](https://opengraph.githubassets.com/1/zhugez/vertelt-bot)](https://github.com/zhugez/vertelt-bot)
+### 3) VerTel Bot (C++ Framework)
+- **Bối cảnh/Mục tiêu:** Xây framework Telegram theo hướng library-first bằng C++.
+- **Vai trò:** Thiết kế kiến trúc + xây core framework.
+- **Việc đã làm:** Thiết kế module tái sử dụng, thiết lập build/package/docs, tách core library khỏi app-specific logic.
+- **Kết quả:** Có nền tảng framework C++ dùng lại được, sẵn cho mở rộng.
 
-### ArcStrike
-[![ArcStrike Preview](https://opengraph.githubassets.com/1/zhugez/ArcStrike)](https://github.com/zhugez/ArcStrike)
+### 4) Abyss (AppSec Platform) — Done
+- **Bối cảnh/Mục tiêu:** Nền tảng phân tích AppSec local-first.
+- **Vai trò:** Hoàn thiện và ổn định nền tảng.
+- **Việc đã làm:** Hoàn thiện stack triển khai + hardening, chuẩn hóa pattern để tái sử dụng.
+- **Kết quả:** Dự án hoàn thành; nhiều pattern được tái dùng ở Aletheia.
 
-### ShadeHunter
-[![ShadeHunter Preview](https://opengraph.githubassets.com/1/zhugez/ShadeHunter)](https://github.com/zhugez/ShadeHunter)
+### 5) ArcStrike (Security Platform) — Doing
+- **Bối cảnh/Mục tiêu:** Xây nền tảng bảo mật theo hướng vận hành thực tế.
+- **Vai trò:** Builder chính trong phase phát triển.
+- **Việc đã làm:** Phát triển kiến trúc và các tính năng cốt lõi.
+- **Kết quả hiện tại:** Active development.
 
-### Ryuu
-[![Ryuu Preview](https://opengraph.githubassets.com/1/zhugez/ryuu)](https://github.com/zhugez/ryuu)
+### 6) ShadeHunter (Security / Recon) — Doing
+- **Bối cảnh/Mục tiêu:** Công cụ phục vụ security và recon workflow.
+- **Vai trò:** Builder chính.
+- **Việc đã làm:** Triển khai các thành phần nền tảng.
+- **Kết quả hiện tại:** Active development.
 
-### ExoMind
-[![ExoMind Preview](https://opengraph.githubassets.com/1/zhugez/ExoMind)](https://github.com/zhugez/ExoMind)
+### 7) Ryuu (Bot / Infra)
+- **Bối cảnh/Mục tiêu:** Bot/infrastructure phục vụ automation.
+- **Vai trò:** Developer chính.
+- **Việc đã làm:** Xây và duy trì các thành phần bot/infrastructure.
+- **Kết quả:** Dự án đang active.
 
-### Mycelium
-[![Mycelium Preview](https://opengraph.githubassets.com/1/zhugez/Mycelium)](https://github.com/zhugez/Mycelium)
+### 8) ExoMind (Knowledge Runtime)
+- **Bối cảnh/Mục tiêu:** Runtime tri thức tích hợp cho agent workflow.
+- **Vai trò:** Thiết kế và phát triển hệ thống.
+- **Việc đã làm:** Xây nền runtime và tổ chức tích hợp với toolchain agent.
+- **Kết quả:** Dự án active.
 
----
-
-## 🧪 Labs & Experiments
-
-- OCR/layout parsing experiments
-- Browser automation and reliability testing
-- UI prototypes and install-flow experiments
+### 9) Mycelium (WordPress Plugin Intelligence for Bug Bounty)
+- **Bối cảnh/Mục tiêu:** Hỗ trợ tải và quản lý plugin WordPress phục vụ quy trình bug bounty trên Patchstack.
+- **Vai trò:** Xây công cụ và pipeline vận hành.
+- **Việc đã làm:** Thiết kế luồng thu thập/tải plugin phục vụ phân tích; chuẩn hóa quy trình test/đối chiếu trong triage; tối ưu thao tác cho use-case nghiên cứu lỗ hổng WordPress.
+- **Kết quả:** Tăng tốc quá trình chuẩn bị mẫu plugin cho phân tích và báo cáo bug bounty.
 
 ---
 
 ## 🗺️ Hub Roadmap
 
-- [x] Portfolio structure and project board
-- [x] Start-here + quick links
-- [x] Preview cards for core projects
-- [ ] CI/security/deploy badges from each project
-- [ ] Weekly “Recent Wins” section
+- [x] Project board + objective summaries
+- [x] Real repo links + status clarity
+- [ ] Add CI/security/deploy badges per project
+- [ ] Add weekly “Recent Wins” section
 
 ---
 
 ## 🤝 Contact
 
 - GitHub: https://github.com/zhugez
-
