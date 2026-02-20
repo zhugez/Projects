@@ -18,6 +18,12 @@ Each project has its own dedicated repository, roadmap, and release history.
 - **Codexible (LLM API Platform):** https://github.com/zhugez/Codexible
 - **Codexible Live:** https://codexible.vercel.app
 - **VerTel (C++ Telegram Framework):** https://github.com/zhugez/vertelt-bot
+- **Abyss (Platform):** https://github.com/zhugez/Abyss
+- **ArcStrike (Security Platform):** (repo link pending)
+- **ShadeHunter:** (repo link pending)
+- **Ryuu:** (repo link pending)
+- **Exomind:** (repo link pending)
+- **Mycelium:** (repo link pending)
 
 ---
 
@@ -28,6 +34,12 @@ Each project has its own dedicated repository, roadmap, and release history.
 | Aletheia | AI / RAG | 🟢 Active | https://github.com/zhugez/Aletheia |
 | Codexible | LLM API Platform | 🟢 Active | https://github.com/zhugez/Codexible |
 | VerTel Bot | C++ Framework | 🟢 Active | https://github.com/zhugez/vertelt-bot |
+| Abyss | Platform | ✅ Done | https://github.com/zhugez/Abyss |
+| ArcStrike | Security Platform | 🚧 Doing | (repo link pending) |
+| ShadeHunter | Security / Recon | 🚧 Doing | (repo link pending) |
+| Ryuu | Agent/Infra | 🟡 Planned | (repo link pending) |
+| Exomind | AI System | 🟡 Planned | (repo link pending) |
+| Mycelium | Knowledge/Network | 🟡 Planned | (repo link pending) |
 
 ---
 
@@ -37,6 +49,8 @@ Each project has its own dedicated repository, roadmap, and release history.
 - **Codexible**: LLM API delivery and integration quality
 - **Deploy flow**: one-command compose + Dokploy consistency
 - **VerTel**: library-first Telegram core in C++
+- **ArcStrike**: active build phase (security platform)
+- **ShadeHunter**: active build phase
 
 ---
 
@@ -60,6 +74,31 @@ Each project has its own dedicated repository, roadmap, and release history.
 
 ---
 
+
+
+### 4) Abyss — Completed Platform
+- **Repo:** https://github.com/zhugez/Abyss
+- **Status:** done
+- **Notes:** baseline patterns reused for hardening and deployment standards
+
+### 5) ArcStrike — In Progress
+- **Status:** doing
+- **Notes:** active development (security-focused platform)
+
+### 6) ShadeHunter — In Progress
+- **Status:** doing
+- **Notes:** active development
+
+### 7) Ryuu
+- **Status:** planned / positioning
+
+### 8) Exomind
+- **Status:** planned / positioning
+
+### 9) Mycelium
+- **Status:** planned / positioning
+
+---
 
 ## 🖼️ Project Preview Cards
 
