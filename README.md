@@ -1,39 +1,43 @@
-# Projects — Engineering Portfolio Index
+# Zhugez — Engineering Portfolio
 
-This repository is a portfolio index of active systems built and operated by **zhugez**.
+A curated index of systems built and operated by **zhugez** across AI, security, and developer platforms.
 
-It is intentionally concise: each entry links to the source repository where architecture, implementation details, and change history are maintained.
+<p align="left">
+  <a href="https://github.com/zhugez/Aletheia"><img src="https://img.shields.io/badge/Aletheia-RAG%20Platform-16a34a?style=for-the-badge" /></a>
+  <a href="https://github.com/zhugez/Codexible"><img src="https://img.shields.io/badge/Codexible-LLM%20API-2563eb?style=for-the-badge" /></a>
+  <a href="https://github.com/zhugez/vertelt-bot"><img src="https://img.shields.io/badge/VerTel-C%2B%2B%20Framework-7c3aed?style=for-the-badge" /></a>
+</p>
 
 ---
 
-## Portfolio Overview
+## Portfolio Matrix
 
-| Project | Lifecycle | Focus Area | Repository |
+| Project | Lifecycle | Positioning | Repository |
 |---|---|---|---|
-| **Aletheia** | Active | Retrieval-Augmented Generation (RAG) platform | https://github.com/zhugez/Aletheia |
+| **Aletheia** | Active | Retrieval-Augmented Generation platform | https://github.com/zhugez/Aletheia |
 | **Codexible** | Active | LLM API platform and integration layer | https://github.com/zhugez/Codexible |
 | **VerTel Bot** | Active | C++ Telegram framework (library-first) | https://github.com/zhugez/vertelt-bot |
 | **Abyss** | Done | AppSec platform | https://github.com/zhugez/Abyss |
 | **ArcStrike** | Building | Security platform | https://github.com/zhugez/ArcStrike |
-| **ShadeHunter** | Building | Security / reconnaissance tooling | https://github.com/zhugez/ShadeHunter |
-| **Ryuu** | Active | Bot and infrastructure tooling | https://github.com/zhugez/ryuu |
-| **ExoMind** | Active | Knowledge runtime systems | https://github.com/zhugez/ExoMind |
-| **Mycelium** | Active | WordPress plugin acquisition pipeline for Patchstack bug bounty workflow | https://github.com/zhugez/Mycelium |
+| **ShadeHunter** | Building | Security and reconnaissance tooling | https://github.com/zhugez/ShadeHunter |
+| **Ryuu** | Active | Bot and infra tooling | https://github.com/zhugez/ryuu |
+| **ExoMind** | Active | Knowledge runtime system | https://github.com/zhugez/ExoMind |
+| **Mycelium** | Active | WordPress plugin acquisition for Patchstack workflow | https://github.com/zhugez/Mycelium |
 | **OrbitSmith** | Active | Platform/tooling project | https://github.com/zhugez/OrbitSmith |
 
 ---
 
-## Lifecycle Conventions
+## Lifecycle Definitions
 
-- **Done**: feature-complete; maintenance only.
-- **Building**: currently in implementation phase (major features in progress).
-- **Active**: live/usable project with ongoing iteration and improvements.
+- **Done** — feature-complete; maintenance-only phase.
+- **Building** — core implementation in progress.
+- **Active** — usable system with ongoing iteration.
 
 ---
 
-## Notes for Recruiters / Reviewers
+## Reviewer Notes
 
-For technical depth, please open each repository directly to review:
+For technical evaluation, open each repository directly for:
 - architecture and design decisions,
 - implementation quality,
 - release cadence and commit history,
@@ -43,4 +47,4 @@ For technical depth, please open each repository directly to review:
 
 ## Contact
 
-GitHub: https://github.com/zhugez
+- GitHub: https://github.com/zhugez
