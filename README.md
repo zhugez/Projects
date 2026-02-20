@@ -18,6 +18,7 @@
 - Ryuu — https://github.com/zhugez/ryuu
 - ExoMind — https://github.com/zhugez/ExoMind
 - Mycelium — https://github.com/zhugez/Mycelium
+- OrbitSmith — https://github.com/zhugez/OrbitSmith
 
 ---
 
@@ -34,6 +35,7 @@
 | **Ryuu** | Bot / Infra | 🟢 Active | Modular automation bot system | Active development and maintenance |
 | **ExoMind** | Knowledge Runtime | 🟢 Active | Portable knowledge runtime for agent workflows | Runtime integration actively developed |
 | **Mycelium** | WordPress Security Tooling | 🟢 Active | Plugin acquisition workflow for Patchstack bug bounty research | Faster plugin triage/testing preparation pipeline |
+| **OrbitSmith** | AI / Tools Platform | 🟢 Active | AI tooling and platform experiments | Active development and iteration |
 
 ---
 
@@ -74,6 +76,12 @@
 - **Role:** System design and implementation.
 - **Delivered:** Core runtime/bot components and integration workflow.
 - **Result:** Active development stage.
+
+### OrbitSmith
+- **Context:** Build and iterate AI tooling/platform workflows.
+- **Role:** System builder and integrator.
+- **Delivered:** Core project structure and active feature iteration.
+- **Result:** Active repository in ongoing development.
 
 ### Mycelium
 - **Context:** WordPress plugin intelligence pipeline for Patchstack bug bounty workflow.
