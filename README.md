@@ -59,6 +59,20 @@ Each project has its own dedicated repository, roadmap, and release history.
 
 ---
 
+
+## 🖼️ Project Preview Cards
+
+### Aletheia
+[![Aletheia Preview](https://opengraph.githubassets.com/1/zhugez/Aletheia)](https://github.com/zhugez/Aletheia)
+
+### Codexible
+[![Codexible Preview](https://opengraph.githubassets.com/1/zhugez/Codexible)](https://github.com/zhugez/Codexible)
+
+### VerTel Bot
+[![VerTel Preview](https://opengraph.githubassets.com/1/zhugez/vertelt-bot)](https://github.com/zhugez/vertelt-bot)
+
+---
+
 ## 🧪 Labs & Experiments
 
 - OCR/layout parsing experiments
