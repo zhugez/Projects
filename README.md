@@ -19,11 +19,11 @@ Each project has its own dedicated repository, roadmap, and release history.
 - **Codexible Live:** https://codexible.vercel.app
 - **VerTel (C++ Telegram Framework):** https://github.com/zhugez/vertelt-bot
 - **Abyss (Platform):** https://github.com/zhugez/Abyss
-- **ArcStrike (Security Platform):** (repo link pending)
-- **ShadeHunter:** (repo link pending)
-- **Ryuu:** (repo link pending)
-- **Exomind:** (repo link pending)
-- **Mycelium:** (repo link pending)
+- **ArcStrike (Security Platform):** https://github.com/zhugez/ArcStrike
+- **ShadeHunter:** https://github.com/zhugez/ShadeHunter
+- **Ryuu:** https://github.com/zhugez/ryuu
+- **Exomind:** https://github.com/zhugez/ExoMind
+- **Mycelium:** https://github.com/zhugez/Mycelium
 
 ---
 
@@ -35,11 +35,11 @@ Each project has its own dedicated repository, roadmap, and release history.
 | Codexible | LLM API Platform | 🟢 Active | https://github.com/zhugez/Codexible |
 | VerTel Bot | C++ Framework | 🟢 Active | https://github.com/zhugez/vertelt-bot |
 | Abyss | Platform | ✅ Done | https://github.com/zhugez/Abyss |
-| ArcStrike | Security Platform | 🚧 Doing | (repo link pending) |
-| ShadeHunter | Security / Recon | 🚧 Doing | (repo link pending) |
-| Ryuu | Agent/Infra | 🟡 Planned | (repo link pending) |
-| Exomind | AI System | 🟡 Planned | (repo link pending) |
-| Mycelium | Knowledge/Network | 🟡 Planned | (repo link pending) |
+| ArcStrike | Security Platform | 🚧 Doing | https://github.com/zhugez/ArcStrike |
+| ShadeHunter | Security / Recon | 🚧 Doing | https://github.com/zhugez/ShadeHunter |
+| Ryuu | Agent/Infra | 🟢 Active | https://github.com/zhugez/ryuu |
+| Exomind | AI System | 🟢 Active | https://github.com/zhugez/ExoMind |
+| Mycelium | Knowledge/Network | 🟢 Active | https://github.com/zhugez/Mycelium |
 
 ---
 
@@ -82,21 +82,26 @@ Each project has its own dedicated repository, roadmap, and release history.
 - **Notes:** baseline patterns reused for hardening and deployment standards
 
 ### 5) ArcStrike — In Progress
+- **Repo:** https://github.com/zhugez/ArcStrike
 - **Status:** doing
 - **Notes:** active development (security-focused platform)
 
 ### 6) ShadeHunter — In Progress
+- **Repo:** https://github.com/zhugez/ShadeHunter
 - **Status:** doing
 - **Notes:** active development
 
 ### 7) Ryuu
-- **Status:** planned / positioning
+- **Repo:** https://github.com/zhugez/ryuu
+- **Status:** active
 
 ### 8) Exomind
-- **Status:** planned / positioning
+- **Repo:** https://github.com/zhugez/ExoMind
+- **Status:** active
 
 ### 9) Mycelium
-- **Status:** planned / positioning
+- **Repo:** https://github.com/zhugez/Mycelium
+- **Status:** active
 
 ---
 
@@ -110,6 +115,23 @@ Each project has its own dedicated repository, roadmap, and release history.
 
 ### VerTel Bot
 [![VerTel Preview](https://opengraph.githubassets.com/1/zhugez/vertelt-bot)](https://github.com/zhugez/vertelt-bot)
+
+### ArcStrike
+[![ArcStrike Preview](https://opengraph.githubassets.com/1/zhugez/ArcStrike)](https://github.com/zhugez/ArcStrike)
+
+### ShadeHunter
+[![ShadeHunter Preview](https://opengraph.githubassets.com/1/zhugez/ShadeHunter)](https://github.com/zhugez/ShadeHunter)
+
+### Ryuu
+[![Ryuu Preview](https://opengraph.githubassets.com/1/zhugez/ryuu)](https://github.com/zhugez/ryuu)
+
+### ExoMind
+[![ExoMind Preview](https://opengraph.githubassets.com/1/zhugez/ExoMind)](https://github.com/zhugez/ExoMind)
+
+### Mycelium
+[![Mycelium Preview](https://opengraph.githubassets.com/1/zhugez/Mycelium)](https://github.com/zhugez/Mycelium)
+
+---
 
 ---
 
