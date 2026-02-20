@@ -1,33 +1,46 @@
-# Projects — Zhugez Portfolio Hub
+# Projects — Engineering Portfolio Index
 
-Trang này là **index dự án** để HR/đối tác nhìn nhanh các project chính của zhugez.
+This repository is a portfolio index of active systems built and operated by **zhugez**.
 
----
-
-## Project Board (owner-verified)
-
-| Project | Status | Mô tả ngắn |
-|---|---|---|
-| [Aletheia](https://github.com/zhugez/Aletheia) | 🟢 Active | Nền tảng RAG/knowledge retrieval đang phát triển |
-| [Codexible](https://github.com/zhugez/Codexible) | 🟢 Active | **LLM API platform** |
-| [vertelt-bot](https://github.com/zhugez/vertelt-bot) | 🟢 Active | C++ framework cho Telegram bot |
-| [Abyss](https://github.com/zhugez/Abyss) | ✅ Done | Dự án đã hoàn thành |
-| [ArcStrike](https://github.com/zhugez/ArcStrike) | 🚧 Doing | Đang triển khai |
-| [ShadeHunter](https://github.com/zhugez/ShadeHunter) | 🚧 Doing | Đang triển khai |
-| [ryuu](https://github.com/zhugez/ryuu) | 🟢 Active | Dự án bot/infra |
-| [ExoMind](https://github.com/zhugez/ExoMind) | 🟢 Active | Knowledge runtime |
-| [Mycelium](https://github.com/zhugez/Mycelium) | 🟢 Active | Tool tải plugin WordPress phục vụ bug bounty Patchstack |
-| [OrbitSmith](https://github.com/zhugez/OrbitSmith) | 🟢 Active | Dự án đang active |
+It is intentionally concise: each entry links to the source repository where architecture, implementation details, and change history are maintained.
 
 ---
 
-## Ghi chú
+## Portfolio Overview
 
-- Trạng thái được giữ theo cách phân loại đơn giản: **Done / Doing / Active**.
-- Nếu cần mô tả chi tiết từng dự án (vai trò, kết quả, stack), sẽ tách sang `PROJECT_DETAILS.md` để README không bị dài và sai lệch.
+| Project | Lifecycle | Focus Area | Repository |
+|---|---|---|---|
+| **Aletheia** | Active | Retrieval-Augmented Generation (RAG) platform | https://github.com/zhugez/Aletheia |
+| **Codexible** | Active | LLM API platform and integration layer | https://github.com/zhugez/Codexible |
+| **VerTel Bot** | Active | C++ Telegram framework (library-first) | https://github.com/zhugez/vertelt-bot |
+| **Abyss** | Done | AppSec platform | https://github.com/zhugez/Abyss |
+| **ArcStrike** | Doing | Security platform | https://github.com/zhugez/ArcStrike |
+| **ShadeHunter** | Doing | Security / reconnaissance tooling | https://github.com/zhugez/ShadeHunter |
+| **Ryuu** | Active | Bot and infrastructure tooling | https://github.com/zhugez/ryuu |
+| **ExoMind** | Active | Knowledge runtime systems | https://github.com/zhugez/ExoMind |
+| **Mycelium** | Active | WordPress plugin acquisition pipeline for Patchstack bug bounty workflow | https://github.com/zhugez/Mycelium |
+| **OrbitSmith** | Active | Platform/tooling project | https://github.com/zhugez/OrbitSmith |
+
+---
+
+## Conventions
+
+- **Done**: feature-complete or maintenance-only lifecycle.
+- **Doing**: in active implementation phase.
+- **Active**: ongoing development and iteration.
+
+---
+
+## Notes for Recruiters / Reviewers
+
+For technical depth, please open each repository directly to review:
+- architecture and design decisions,
+- implementation quality,
+- release cadence and commit history,
+- CI/CD and operational readiness.
 
 ---
 
 ## Contact
 
-- GitHub: https://github.com/zhugez
+GitHub: https://github.com/zhugez
