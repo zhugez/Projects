@@ -26,29 +26,6 @@ A curated index of systems built and operated by **zhugez** across AI, security,
 | **OrbitSmith** | Active | Platform/tooling project | https://github.com/zhugez/OrbitSmith |
 
 
-## Learning & Academic Repositories
-
-Grouped here for clarity so the main portfolio stays focused on production/core systems.
-
-- https://github.com/zhugez/AI-Learning
-- https://github.com/zhugez/AIMachineLearning
-- https://github.com/zhugez/Hackerrank
-- https://github.com/zhugez/Leetcode-Practices-
-- https://github.com/zhugez/NLPFinalProject
-- https://github.com/zhugez/OOP-JAVA
-- https://github.com/zhugez/Something-about-python-part1-
-- https://github.com/zhugez/Something-about-python-part2-
-- https://github.com/zhugez/STT75_20075351_LyNgocVu_Tuan1
-- https://github.com/zhugez/STT75_20075351_LyNgocVu_Tuan2
-- https://github.com/zhugez/STT75_20075351_LyNgocVu_Tuan3
-- https://github.com/zhugez/STT75_20075351_LyNgocVu_Tuan4
-- https://github.com/zhugez/STT75_20075351_LyNgocVu_Tuan5
-- https://github.com/zhugez/STT75_20075351_LyNgocVu_Tuan9
-- https://github.com/zhugez/CSSchool
-- https://github.com/zhugez/2023_LZDEZ
-
----
-
 ## Lifecycle Definitions
 
 - **Done** — feature-complete; maintenance-only phase.
