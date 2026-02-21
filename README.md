@@ -19,7 +19,7 @@ A curated index of systems built and operated by **zhugez** across AI, security,
 | **VerTel Bot** | Active | C++ Telegram framework (library-first) | https://github.com/zhugez/vertelt-bot |
 | **Abyss** | Done | AppSec platform | https://github.com/zhugez/Abyss |
 | **ArcStrike** | Building | Security platform | https://github.com/zhugez/ArcStrike |
-| **ShadeHunter** | Building | Security and reconnaissance tooling | https://github.com/zhugez/ShadeHunter |
+| **ShadeHunter** | Building | Cyber Threat Intelligence platform | https://github.com/zhugez/ShadeHunter |
 | **Ryuu** | Active | Bot and infra tooling | https://github.com/zhugez/ryuu |
 | **ExoMind** | Active | Knowledge runtime system | https://github.com/zhugez/ExoMind |
 | **Mycelium** | Active | WordPress plugin acquisition for Patchstack workflow | https://github.com/zhugez/Mycelium |
