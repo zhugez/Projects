@@ -6,6 +6,7 @@ A curated index of systems built and operated by **zhugez** across AI, security,
   <a href="https://github.com/zhugez/Aletheia"><img src="https://img.shields.io/badge/Aletheia-RAG%20Platform-16a34a?style=for-the-badge" /></a>
   <a href="https://github.com/zhugez/Codexible"><img src="https://img.shields.io/badge/Codexible-LLM%20API-2563eb?style=for-the-badge" /></a>
   <a href="https://github.com/zhugez/vertelt-bot"><img src="https://img.shields.io/badge/VerTel-C%2B%2B%20Framework-7c3aed?style=for-the-badge" /></a>
+  <a href="https://github.com/zhugez/cordyceps"><img src="https://img.shields.io/badge/Cordyceps-WP%20Security%20Scanner-dc2626?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -23,6 +24,7 @@ A curated index of systems built and operated by **zhugez** across AI, security,
 | **Ryuu** | Active | Bot and infra tooling | https://github.com/zhugez/ryuu |
 | **ExoMind** | Active | Knowledge runtime system | https://github.com/zhugez/ExoMind |
 | **Mycelium** | Active | WordPress plugin acquisition for Patchstack workflow | https://github.com/zhugez/Mycelium |
+| **Cordyceps** | Active | WordPress plugin security scanner with Patchstack-ready findings | https://github.com/zhugez/cordyceps |
 | **OrbitSmith** | Active | Platform/tooling project | https://github.com/zhugez/OrbitSmith |
 
 
