@@ -8,6 +8,12 @@ A curated index of systems built and operated by **zhugez** across AI, security,
   <a href="https://github.com/zhugez/vertelt-bot"><img src="https://img.shields.io/badge/VerTel-C%2B%2B%20Framework-7c3aed?style=for-the-badge" /></a>
   <a href="https://github.com/zhugez/cordyceps"><img src="https://img.shields.io/badge/Cordyceps-WP%20Security%20Scanner-dc2626?style=for-the-badge" /></a>
 </p>
+<p align="left">
+  <a href="https://github.com/zhugez/stella"><img src="https://img.shields.io/badge/Stella-IELTS%20Learning-eab308?style=for-the-badge" /></a>
+  <a href="https://github.com/zhugez/pi-pulse"><img src="https://img.shields.io/badge/pi--pulse-Agent%20Extensions-0ea5e9?style=for-the-badge" /></a>
+  <a href="https://github.com/zhugez/pi-capsule"><img src="https://img.shields.io/badge/pi--capsule-Config%20Capsule-14b8a6?style=for-the-badge" /></a>
+  <a href="https://github.com/zhugez/pingloom"><img src="https://img.shields.io/badge/Pingloom-Desktop%20Overlay-f97316?style=for-the-badge" /></a>
+</p>
 
 ---
 
@@ -25,6 +31,10 @@ A curated index of systems built and operated by **zhugez** across AI, security,
 | **ExoMind** | Active | Knowledge runtime system | https://github.com/zhugez/ExoMind |
 | **Mycelium** | Active | WordPress plugin acquisition for Patchstack workflow | https://github.com/zhugez/Mycelium |
 | **Cordyceps** | Active | WordPress plugin security scanner with Patchstack-ready findings | https://github.com/zhugez/cordyceps |
+| **Stella** | Active | Illustrated IELTS vocabulary and learning ecosystem | https://github.com/zhugez/stella |
+| **Pi Pulse** | Active | Extension workshop for the Pi Coding Agent | https://github.com/zhugez/pi-pulse |
+| **Pi Capsule** | Active | Portable snapshot and restore of a Pi agent configuration | https://github.com/zhugez/pi-capsule |
+| **Pingloom** | Active | Native desktop ping and emote overlay (Rust + Tauri) | https://github.com/zhugez/pingloom |
 | **OrbitSmith** | Active | Platform/tooling project | https://github.com/zhugez/OrbitSmith |
 
 
