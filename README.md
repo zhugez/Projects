@@ -3,10 +3,9 @@
 Systems I build and maintain. Sorted by last commit, newest first.
 
 <p align="left">
-  <a href="https://github.com/zhugez/dross"><img src="https://img.shields.io/badge/dross-Disk%20Cleaner-f5a524?style=for-the-badge" /></a>
-  <a href="https://github.com/zhugez/pi-capsule"><img src="https://img.shields.io/badge/pi--capsule-Config%20Capsule-14b8a6?style=for-the-badge" /></a>
   <a href="https://github.com/zhugez/pi-pulse"><img src="https://img.shields.io/badge/pi--pulse-Agent%20Extensions-0ea5e9?style=for-the-badge" /></a>
   <a href="https://github.com/zhugez/stella"><img src="https://img.shields.io/badge/Stella-IELTS%20Learning-eab308?style=for-the-badge" /></a>
+  <a href="https://github.com/zhugez/pi-capsule"><img src="https://img.shields.io/badge/pi--capsule-Config%20Capsule-14b8a6?style=for-the-badge" /></a>
   <a href="https://github.com/zhugez/pingloom"><img src="https://img.shields.io/badge/Pingloom-Desktop%20Overlay-f97316?style=for-the-badge" /></a>
 </p>
 <p align="left">
@@ -20,10 +19,9 @@ Systems I build and maintain. Sorted by last commit, newest first.
 
 | Project | Status | What it is | Stack | Link |
 |---|---|---|---|---|
-| **dross** | Active | Conservative disk cleaner for Fedora and WSL: read-only by default, every deletion measured | Rust | [live](https://dross.zhugez.workers.dev) · [repo](https://github.com/zhugez/dross) |
-| **Pi Capsule** | Active | Exports `~/.pi/agent` into a repo and restores it on another machine; secrets stay local | Bash, PowerShell, JS | [live](https://pi-capsule.zhugez.workers.dev) · [repo](https://github.com/zhugez/pi-capsule) |
 | **Pi Pulse** | Active | Collection of extensions for the Pi Coding Agent: observability, model providers, a coding-discipline mode | TypeScript | [repo](https://github.com/zhugez/pi-pulse) |
 | **Stella** | Active | Illustrated IELTS vocabulary app: 7,298 words, 22,905 native UK/US clips, FSRS scheduling, WebGL star map | React 19, TypeScript, WebGL2 | [live](https://stella.zhugez.workers.dev) · [repo](https://github.com/zhugez/stella) |
+| **Pi Capsule** | Active | Exports `~/.pi/agent` into a repo and restores it on another machine; secrets stay local | Bash, PowerShell, JS | [live](https://pi-capsule.zhugez.workers.dev) · [repo](https://github.com/zhugez/pi-capsule) |
 | **ExoMind** | Active | Portable memory and knowledge runtime shared by Pi, Hermes Agent, OpenClaw and Codex | Rust | [repo](https://github.com/zhugez/ExoMind) |
 | **Pingloom** | Active | Native desktop ping and animated emote overlay, independent of the game client. Windows-first | Rust, Tauri 2, Svelte 5 | [live](https://pingloom.zhugez.workers.dev/) · [repo](https://github.com/zhugez/pingloom) |
 | **Cordyceps** | Active | WordPress plugin vulnerability scanner that emits Patchstack-ready findings; runs on Mycelium | Python | [repo](https://github.com/zhugez/cordyceps) |
@@ -32,6 +30,7 @@ Systems I build and maintain. Sorted by last commit, newest first.
 | **VerTel Bot** | Active | C++20 Telegram bot framework with rate limiting, Prometheus metrics, health checks and retry backoff | C++20 | [repo](https://github.com/zhugez/vertelt-bot) |
 | **ShadeHunter** | Building | Interface for cyber threat intelligence work: signal review, analyst triage, AI-assisted analysis | Next.js 16, React 19 | [live](https://shade-hunter.vercel.app) · repo private |
 | **OrbitSmith** | Active | CLI toolkit for Antigravity workflows, v0.9.1 beta, one-line install for Linux, macOS and Windows | Rust | [repo](https://github.com/zhugez/OrbitSmith) |
+| **dross** | Active | Conservative disk cleaner for Fedora and WSL: read-only by default, every deletion measured | Rust | [live](https://dross.zhugez.workers.dev) · [repo](https://github.com/zhugez/dross) |
 | **ArcStrike** | Building | Endpoint detection and response: memory scanning for hollowed processes and injected sections, ETW and AMSI monitoring, a YARA engine, and an ML classifier for packed PE loaders | Next.js | [live](https://arcstrike.vercel.app) · repo private |
 | **Abyss** | Done | AppSec analysis that runs locally: isolated scanning, local LLM, no code leaves the machine | Python, Firecracker | [landing](https://abyss-landing.vercel.app/landing) · repo private |
 | **Ryuu** | Active | Modular C++20 Discord bot on DPP, 38 slash commands across utility, moderation and dev tools | C++20 | [repo](https://github.com/zhugez/ryuu) |
